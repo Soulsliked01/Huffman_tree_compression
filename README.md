@@ -13,5 +13,8 @@ The code is constructed around the functions present in the code and the naming 
 Howewever the implementation of these are mine to claim.
 
 bytestream.py
-Code re-used not written by me. Associated with the liscence.txt.
+Code re-used not written by me.
+
+LISCENCE.txt 
+work with the tests 
 
