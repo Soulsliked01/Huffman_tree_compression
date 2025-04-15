@@ -1,6 +1,9 @@
 # Huffman_tree_compression
 Based on the concept of Huffman tree. Compress a string to a binary format
 
+GOAL: 
+Deepen the understanding of recursive tree traversing in the environement of university work
+
 Files:
 
 Huffman.py 
