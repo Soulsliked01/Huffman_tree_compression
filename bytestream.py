@@ -1,3 +1,6 @@
+"""
+This code wasnt wrote by me. It is associated with the file LISCENCE.txt
+"""
 BIT_PER_BYTE = 8
 
 
