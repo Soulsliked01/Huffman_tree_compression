@@ -18,3 +18,6 @@ Code re-used not written by me.
 LISCENCE.txt 
 work with the tests 
 
+tests.py 
+Not writting by me either but by the teachers/helpers of the university 
+assure the good behavior of the code in Huffman tree
